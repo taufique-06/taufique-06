@@ -55,4 +55,4 @@ const taufique = {
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-TaufiqueAzad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taufique-azad-06/)[![Instagram Badge](https://img.shields.io/badge/-@taufique.azadD7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/taufique.azad/)
+[![Linkedin Badge](https://img.shields.io/badge/-taufiqueazad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/taufique-azad-06/) [![Instagram Badge](https://img.shields.io/badge/-@taufique.azad?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/taufique.azad/)](https://www.instagram.com/taufique.azad/)
