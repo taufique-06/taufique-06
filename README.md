@@ -2,11 +2,11 @@
  <abc>
   <br>Hello World! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Taufique Azad, Computer Engineering Student and Full Stack Web Developer!<br>
+  <h5>Currently, looking for an internship where I will be able to put my existing skills into practice whilst learning and developing further knowledge.<h5>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2>
-<p>Currently, looking for an internship where I will be able to put my existing skills into practice whilst learning and developing further knowledge.<p>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -27,7 +27,7 @@
     </p>
 
 <h2 align="left">A little more about Me:</h2>
-
+```javascript
 const taufique = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Learning Java", "Learning C++", "PHP"],
@@ -47,7 +47,7 @@ const taufique = {
     currentFocus: "Building an Andriod App",
     funFact: "Coding Bugs were NOT named after an actual bug"
 };
-
+```
 <br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
