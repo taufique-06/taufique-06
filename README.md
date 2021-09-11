@@ -27,6 +27,7 @@
     </p>
 
 <h2 align="left">A little more about Me:</h2>
+
 ```javascript
 const taufique = {
     pronouns: "He" | "Him",
@@ -48,6 +49,7 @@ const taufique = {
     funFact: "Coding Bugs were NOT named after an actual bug"
 };
 ```
+  
 <br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
