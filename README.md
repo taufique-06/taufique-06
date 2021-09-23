@@ -2,7 +2,7 @@
  <abc>
   <br>Hello World! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I am Taufique Azad, Computer Engineering Student and Full Stack Web Developer!<br>
-<!-- <h5>Currently, looking for an internship where I will be able to put my existing skills into practice whilst learning and developing further knowledge.<h5> -->
+<h5>Currently, looking for an internship where I will be able to put my existing skills into practice whilst learning and developing further knowledge.<h5>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
