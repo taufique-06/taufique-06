@@ -29,7 +29,7 @@
 const taufique = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Learning Java", "Learning C++", Learning XML, "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "cricket and football", "games"],
+    askMeAbout: ["web dev", "tech", "app dev", "cricket and football", "games,especially FIFA😃"],
     technologies: {
         frontEnd: {
             js: ["HTML", "CSS", "JavaScript", "Learning SASS", "Bootstrap", "WordPress", "TailwindCSS"],
