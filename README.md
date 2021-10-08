@@ -35,7 +35,7 @@ const taufique = {
             js: ["HTML", "CSS", "JavaScript", "Learning SASS", "Bootstrap", "WordPress", "TailwindCSS"],
         },
         backEnd: {
-            js: ["Node", "Fastify", "Express", "SuiteScript"],
+            js: ["Node"],
         },
         mobileApp: {
             native: ["Learning Android Development"]
