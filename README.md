@@ -42,7 +42,7 @@ const taufique = {
         },
         databases: ["MySql"]
     },
-    currentFocus: "Building an Andriod App",
+    currentFocus: "Developing a Patient Management System by using C#",
     funFact: "Coding Bugs were NOT named after an actual bug"
 };
 ```
