@@ -30,7 +30,7 @@ const taufique = {
     askMeAbout: ["web dev", "tech", "app dev", "cricket and football", "games,especially FIFA😃"],
     technologies: {
         frontEnd: {
-            js: ["HTML", "CSS", "JavaScript", "Bootstrap", "WordPress", "TailwindCSS"],
+            js: ["HTML", "CSS", "C#" "JavaScript", "Bootstrap", "WordPress", "TailwindCSS"],
         },
         backEnd: {
             js: ["Node"],
