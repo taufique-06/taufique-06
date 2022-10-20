@@ -26,7 +26,7 @@
 ```javascript
 const taufique = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Android App development", "Learning C++", "Learning XML", "Learning Laravel PHP"],
+    code: ["Javascript", "Android App development", "C++", "XML", "C#", ".net core"],
     askMeAbout: ["web dev", "tech", "app dev", "cricket and football", "games,especially FIFA😃"],
     technologies: {
         frontEnd: {
