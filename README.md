@@ -48,4 +48,5 @@ const taufique = {
 <br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
+
 [![Linkedin Badge](https://img.shields.io/badge/-TaufiqueAzad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/taufique-azad-06/)
